@@ -1,11 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Timothée LAPOV ======================================================================================================================================  
-Web Developer | iOS Developer 
------------------------------  
-🌍  I'm based in Lyon, France 
-✉️  You can contact me at [timotheelapov@icloud.com](mailto:timotheelapov@icloud.com) 
-🚀  I'm currently working on [The choice](http://apps.apple.com/app/id6475051206) 
-🧠  I'm learning Web development 
-🤝  I'm open to collaborating on projects for non-profit organizations
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Timothée LAPOV ======================================================================================================================================  Web Developer | iOS Developer -----------------------------  * 🌍  I'm based in Lyon, France * ✉️  You can contact me at [timotheelapov@icloud.com](mailto:timotheelapov@icloud.com) * 🚀  I'm currently working on [The choice](http://apps.apple.com/app/id6475051206) * 🧠  I'm learning Web development * 🤝  I'm open to collaborating on projects for non-profit organizations
 
 ### Skills  
 
