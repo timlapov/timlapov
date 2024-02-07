@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer | iOS Developer 
 -----------------------------  
 🌍  I'm based in Lyon, France  
+🌏  I speak English, Russian, French
 ✉️  You can contact me at [timotheelapov@icloud.com](mailto:timotheelapov@icloud.com)   
 🚀  I'm currently working on [The choice](http://apps.apple.com/app/id6475051206)  
 🧠  I'm learning Web development  
