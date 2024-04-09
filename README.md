@@ -4,7 +4,7 @@ Web Developer | iOS Developer
 -----------------------------  
 🌍  I'm based in Lyon, France  
 🌏  I speak English, Russian, French
-✉️  You can contact me at [timotheelapov@icloud.com](mailto:timotheelapov@icloud.com)   
+✉️  You can contact me at [timlapov@icloud.com](mailto:timlapov@icloud.com)   
 🚀  I'm currently working on [The choice](http://apps.apple.com/app/id6475051206)  
 🧠  I'm learning Web development  
 🤝  I'm open to collaborating on projects for non-profit organizations
