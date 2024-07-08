@@ -5,7 +5,7 @@ Web Developer | iOS Developer
 🌍  I'm based in Lyon, France  
 🌏  I speak English, Russian, French
 ✉️  You can contact me at [timlapov@icloud.com](mailto:timlapov@icloud.com)   
-🚀  I'm currently working on [The choice](http://apps.apple.com/app/id6475051206)  
+🚀  I'm currently working on [LexiSwipe](https://apps.apple.com/fr/app/lexiswipe/id6520391180)  
 🧠  I'm learning Web development  
 🤝  I'm open to collaborating on projects for non-profit organizations
 
