@@ -6,7 +6,7 @@
 <p align="center">
   <strong>Developer</strong> Web & iOS<br/>
   🎓 RNCP Level 6 – Bachelor’s level (Bac+3/4)<br/>
-  📍 Lyon, France | 🇷🇺 🇬🇧 🇫🇷
+  📍 Lyon, France | 🇫🇷
 </p>
 
 ---
